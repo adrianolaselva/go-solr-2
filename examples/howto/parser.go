@@ -1,6 +1,6 @@
 package main
 
-import "github.com/vanng822/go-solr/solr"
+import "github.com/gadelkareem/go-solr/solr"
 import "fmt"
 
 
